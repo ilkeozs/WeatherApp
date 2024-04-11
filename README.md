@@ -4,7 +4,7 @@
 <img width="500" height="250" src="WeatherApp/Images/image_2.png">
 <img width="500" height="250" src="WeatherApp/Images/image_3.png">
 
-# Downloads and Installation
+# Downloads
 
 [Latest Recommended Release (.msi)](https://drive.google.com/uc?id=1JlY_ULa6YQahpvY022B9vQDzW3zHQml4)
 
