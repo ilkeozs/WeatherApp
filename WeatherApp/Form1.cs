@@ -16,6 +16,7 @@ namespace WeatherApp
 {
     public partial class Form1 : Form
     {
+
         string WeatherName;
         string TemperatureC;
         string TemperatureF;
