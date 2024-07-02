@@ -20,4 +20,4 @@ The warnings seen in the photos below are normal. The download and installation 
 <img width="300" height="300" src="WeatherApp/Images/image_5.png">
 <img width="300" height="300" src="WeatherApp/Images/image_6.png">
 
-After these steps, you will see the standard installation screen.
+After these steps, you will see the standard installation window.
