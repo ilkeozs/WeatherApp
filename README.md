@@ -8,7 +8,7 @@
 
 [Latest Release (.msi)](https://ilkeozs.info/weather_app/WeatherApp%20Installer.msi)
 
-# Download and Installation Warnings
+# Installation Warnings
 
 The warning seen in the photo below is normal.
 
