@@ -4,7 +4,7 @@
 <img width="500" height="250" src="WeatherApp/Images/image_2.png">
 <img width="500" height="250" src="WeatherApp/Images/image_3.png">
 
-# Downloads
+# Download
 
 [Latest Release (.msi)](https://ilkeozs.info/weather_app/WeatherApp%20Installer.msi)
 
