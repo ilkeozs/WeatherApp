@@ -12,7 +12,7 @@
 
 The warning seen in the photo below is normal.
 
+<img width="300" height="300" src="WeatherApp/Images/image_4.png">
 <img width="300" height="300" src="WeatherApp/Images/image_5.png">
-<img width="300" height="300" src="WeatherApp/Images/image_6.png">
 
 After these steps, you will see the standard installation window.
